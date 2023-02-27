@@ -6,7 +6,7 @@ import Tabcontent from './component/Tabcontent';
 import Toptranding from './component/Toptranding';
 import Popular from './component/Popular';
 import Rohit from './component/Rohit'
-import Footer from'./component/Footer'
+import Footer from './component/Footer'
 import Seconne from './component/Seconne'
 import { FaMapMarkerAlt, FaMusic, FaGlassMartiniAlt } from 'react-icons/fa'
 import { BsFillCartDashFill } from 'react-icons/bs'
@@ -50,17 +50,14 @@ function App() {
         </div>
         <div>
           <div>
-          <div className=' bk-1 mg-2 d-flex justify-content-center'>
-            <Fade bottom>
-            <Custombox icon={< BsFillCartDashFill />} name="CARTS" />
-        
-            <Custombox icon={< GiFoodChain />} name="FOODS" />
-            <Custombox icon={< FaCandyCane />} name="CANDY" />
-            <Custombox icon={< GiMedicines />} name="MEDICINE" />
-            <Custombox icon={< FaBirthdayCake />} name="CACK" />
-            <Custombox icon={< FaPlaceOfWorship />} name="PLACE" />
-            </Fade>
-          </div>
+            <div className=' bk-1 mg-2 d-flex justify-content-center'>
+              <Custombox icon={< BsFillCartDashFill />} name="CARTS" />
+              <Custombox icon={< GiFoodChain />} name="FOODS" />
+              <Custombox icon={< FaCandyCane />} name="CANDY" />
+              <Custombox icon={< GiMedicines />} name="MEDICINE" />
+              <Custombox icon={< FaBirthdayCake />} name="CACK" />
+              <Custombox icon={< FaPlaceOfWorship />} name="PLACE" />
+            </div>
           </div>
         </div>
       </div>
@@ -90,4 +87,3 @@ export default App;
 
 
 
- 
