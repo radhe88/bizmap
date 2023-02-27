@@ -1,7 +1,6 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap';
 import Card from 'react-bootstrap/Card';
-import CardGroup from 'react-bootstrap/CardGroup';
 import { FaStar } from "react-icons/fa";
 import { BsMoon, BsMap } from "react-icons/bs";
 
@@ -20,7 +19,6 @@ const Popular = () => {
             </div>
             
             <section className='container popularCity'>
-                <CardGroup className='cardbtx'>
                     <Row>
                         <Col sm className='rk-4'>
                             <Card>
@@ -133,7 +131,6 @@ const Popular = () => {
                             </div>
                         </Col>
                     </Row>
-                </CardGroup>
             </section>
             
 

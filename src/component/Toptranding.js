@@ -1,10 +1,5 @@
 import React from 'react'
 import Slider from "react-slick";
-import Card from 'react-bootstrap/Card';
-import { Col, Row } from 'react-bootstrap';
-import Cardgroup from 'react-bootstrap/Cardgroup';
-import { FaStar } from "react-icons/fa";
-import { BsMoon, BsMap } from "react-icons/bs";
 import Boxcard from './Boxcard';
 
 
