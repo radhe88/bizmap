@@ -4,7 +4,6 @@ import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 import { FaStar } from "react-icons/fa";
 import { BsMoon, BsMap } from "react-icons/bs";
-import Slide from 'react-reveal/Slide';
 
 
 
@@ -27,7 +26,6 @@ const Popular = () => {
                             <Card>
                                 <Card.Img variant="top" src="https://bizmap.dexignzone.com/xhtml/images/destinations/pic2.jpg" />
                             </Card>
-                            <Slide left opposite cascade when>
                             <div className='featured-info'>
                                 <ul className='featured-star'>
                                     <li>
@@ -50,7 +48,6 @@ const Popular = () => {
                                     </li>
                                 </ul>
                             </div>
-                            </Slide>
                         </Col>
                         <Col sm>
                             <Card>

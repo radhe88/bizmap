@@ -13,8 +13,6 @@ import { BsFillCartDashFill } from 'react-icons/bs'
 import { FaCandyCane, FaBirthdayCake, FaPlaceOfWorship } from 'react-icons/fa'
 import { GiFoodChain, GiMedicines } from 'react-icons/gi'
 import Boxbtxt from './component/Boxbtxt';
-import Zoom from 'react-reveal/Zoom';
-import Fade from 'react-reveal/Fade';
 
 
 import "slick-carousel/slick/slick.css";
