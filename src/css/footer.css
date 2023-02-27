@@ -1,0 +1,224 @@
+footer{
+  color: #b7b3cb;
+}
+
+.footer-top {
+  background: #15141b;
+  background-size: cover;
+  background-position: 50%;
+  padding: 80px 0 50px;
+  background-image: url(https://bizmap.dexignzone.com/react/demo/static/media/bg6.39989975.jpg);
+  background-size: 100%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+.container {
+  max-width: 1170px;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-xl-5 {
+  flex: 0 0 41.666667%;
+  max-width: 41.666667%;
+}
+.m-b15 {
+  margin-bottom: 15px;
+}
+.input-group> .form-control {
+  /* position: relative; */
+  flex: 1 1 auto;
+  width: 1%;
+  margin-bottom: 0;
+}
+.subscribe-form input {
+  background-color: transparent;
+  border: 2px solid #b7b3cb;
+  border-radius: 30px!important;
+  height: 50px;
+  padding: 10px 20px;
+  margin-right: 5px;
+  color: #fff;
+  font-size: 15px;
+}
+.subscribe-form .input-group-btn {
+  padding-left: 10px;
+}
+.subscribe-form .site-button.radius-xl {
+  border-radius: 50px!important;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.subscribe-form .site-button {
+  height: 54px;
+}
+.site-button{
+  background-color: #4611a7;
+  color: #fff;
+}
+.site-button:hover{
+  background-color: #7133e2;
+  color: #fff;
+}
+.site-button, .site-button.button-lg {
+  font-weight: 400;
+  z-index: 99;
+  /* position: relative; */
+}
+.site-footer .site-button.circle {
+  font-size: 16px;
+}
+.site-button.facebook {
+  background-color: #3b5998;
+}
+.site-button.circle {
+  width: 40px;
+  height: 40px;
+  padding: 0px 3px 2px 8px;
+  border-radius: 40px;
+  line-height: 39px;
+}
+.site-button {
+  color: #fff;
+  padding: 10px 20px;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  border: 0 solid transparent;
+  line-height: 1.42857;
+  border-radius: 3px;
+  font-weight: 600;
+  text-align: center;
+}
+.social-icon li a i {
+  color: #fff;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.list-inline>li {
+  padding-left: 2px;
+  padding-right: 2px;
+  display: inline-block;
+}
+.site-button.google-plus {
+  background-color: #de4e43;
+  font-weight: 700;
+}
+.site-button.linkedin {
+  background-color: #007bb6;
+}
+.site-button.instagram {
+  background-color: #8a5a4e;
+}
+.site-button.twitter {
+  background-color: #1ea1f3;
+}
+.col-xl-4 {
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+}
+.col-xl-5 {
+  flex: 0 0 41.666667%;
+  max-width: 41.666667%;
+}
+ul[class*=list-] {
+  font-family: Montserrat,sans-serif;
+  font-size: 15px;
+}
+ul {
+  list-style-position: outside;
+  padding: 0;
+}
+.list-2 li:before {
+  content: "";
+  font-size: 11px;
+  left: 0;
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  background: #c6cffa;
+  top: 15px;
+}
+.site-footer a{
+  color: #b7b3cb;
+}
+.side-footer li {
+  list-style: none;
+}
+/* .list-2 li:hover{
+  background: linear-gradient(to left, red 34%, blue 65%) right;
+  background-size: 300% 100%;
+} */
+.list-2 li:hover {
+  padding: 5px 5px 5px 22px;
+}
+footer .widget ul {
+    list-style: none;
+    margin-top: 10px;
+}
+ul[class*=list-] {
+  font-family: Montserrat,sans-serif;
+  /* font-size: 15px; */
+}
+.footer-bottom {
+  background-color: #15141a;
+  padding: 25px 0;
+  color: #b0b0b0;
+  border-top: 1px solid hsla(0,0%,100%,.05);
+}
+.container {
+  max-width: 1170px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+a{
+  text-decoration: none;
+}
+.fbottom-like .like-btn i {
+  width: 18px;
+  height: 18px;
+  margin: 0 4px;
+  position: relative;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fbottom-like .like-btn i:before {
+  left: -20px;
+  top: -17px;
+}
+.footer-bottom svg{
+  color: #fff;
+  size: 57px;
+    margin-left: 5px;
+    font-size: 21px;
+
+    
+
+}

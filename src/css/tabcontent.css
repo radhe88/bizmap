@@ -1,0 +1,73 @@
+.tab-content {
+  background-color: #f7f7ff;
+  padding: 15px;
+  border-radius: 4px;
+  width: 1140px;
+  margin: auto;
+}
+
+.tab-pane {
+  padding: 0;
+}
+.tab-content>.active {
+  display: block;
+}
+.tab-content{
+  margin-top: 40px;
+}
+form {
+  display: block;
+  margin-top: 0em;
+}
+.input-group {
+  width: 100%;
+}
+.input-group {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.form-control{
+  height: 55px!important;
+  font-size: 14px;
+  margin-right: 15px;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px!important;
+}
+.tab-content .form select.form-control {
+  height: 55px!important;
+  font-size: 14px;
+  margin-right: 15px;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px!important;
+}
+.input-group-prepend {
+  margin-right: -1px;
+}
+.input-group-prepend {
+  display: flex;
+}
+
+.input-group-prepend button {
+  margin-right: 5px;
+}
+img, svg {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.button {
+  padding: 12px 40px;
+}
+.lorem{
+  color: #ffffff;
+ text-align: center;
+}
+p{
+  margin-top: 20px;
+  line-height: 28px;
+  font-size: 18px;
+}
+.m-b10 {
+  margin-bottom: 10px;
+}

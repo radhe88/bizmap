@@ -1,0 +1,39 @@
+.category-bx .custombxCate:hover,
+e {
+  background-color: #fdfdfd;
+  color: #312382;
+  transform: scale(1.08);
+
+}
+
+.category-bx .custombxCate {
+  height: 90px;
+  color: #fff;
+  width: 85px;
+  text-align: center;
+  margin-right: 15px;
+  padding: 3px;
+  transition: all .4s;
+  -moz-transition: all .4s;
+  -ms-transition: all .4s;
+  -webkit-transition: all .4s;
+  -o-transition: all .4s;
+  border-radius: 4px;
+  background: hsla(0, 0%, 100%, .1);
+  border: 1px solid hsla(0, 0%, 100%, .1);
+}
+
+.category-bx .custombxCate i {
+  font-size: 40px;
+  line-height: 30px;
+}
+
+.custombxCate {
+  font-weight: bold;
+  text-align: justify;
+}
+
+.custombxCate svg {
+  margin: 13px;
+  font-size: 25px;
+}
